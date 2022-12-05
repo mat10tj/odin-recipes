@@ -1,0 +1,14 @@
+html {
+    background-color: rgb(76, 148, 8);
+    color: rgb(102, 11, 57);
+}
+.food { 
+   
+    text-decoration: none;
+    font-size: larger;
+    line-height: 1.5em;
+}
+#chief{
+    padding-bottom: 1em;
+}
+
